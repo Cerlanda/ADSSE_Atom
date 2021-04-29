@@ -1,3 +1,5 @@
+#memory usage of algorithm
+
 import os,psutil
 import numpy
 #defining
