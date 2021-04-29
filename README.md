@@ -1,5 +1,6 @@
 # ADSSE_Atom
 ADSSE mini project
+Python and Atom was used for this, but I'm sure it also works in PyCharm.
 
 # subarrayDaC.py
 - Divide-and-conquer algorithm
