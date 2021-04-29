@@ -1,7 +1,7 @@
 def maxSubSum(A,n):
 
 	currentMax = A[0] #biggest so far
-	currentGlobal = 0 #gloabal maximum. If < 0, then reset to 0, and go to next index
+	currentGlobal = 0 #current index value we are at
 
 	for i in range(0, n):
 		currentGlobal = currentGlobal + A[i]
